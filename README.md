@@ -2,7 +2,7 @@
 
 把事故变成卡牌，把复盘变成图鉴。一个纯前端的「Bug 收容 / 复盘 / 图鉴 / 分享」小应用，为 1024 程序员节而造。
 
-![技术栈](https://img.shields.io/badge/React%2018-Vite%205-TypeScript-39ff88)
+**技术栈：React 18 · Vite 5 · TypeScript**（纯前端，无后端）
 
 ## 启动与构建
 
