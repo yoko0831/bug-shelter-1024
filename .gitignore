@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.workbuddy/
+参赛提交信息/
+
+# 依赖与构建产物
+*.log
+.DS_Store
